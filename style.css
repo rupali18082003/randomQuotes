@@ -1,0 +1,46 @@
+body{
+	background-color: #ccffcc;
+}
+.name{
+	text-align: center;
+	margin-top: 3rem;
+}
+.name h1{
+	font-size: 4rem;
+	color: #004d00;
+}
+.main{
+	height: 300px;
+	width: 70%;
+	padding-top: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
+	background-color: white;
+	margin-left: 13%;
+	/*overflow: scroll;*/
+}
+p{
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 25px;
+	line-height: 1.4;
+	text-align: center;
+	color: #004d00;
+}
+.next{
+	text-align: center;
+	margin-left: 45%;
+	padding: 10px;
+	font-size: 20px;
+	color: white;
+	background-color: #004d00;
+	border: none;
+	border-radius: 20px;
+	margin-bottom: 29px;
+}
+.next:hover{
+	border: 2px solid #004d00;
+	background-color: white;
+	color: #004d00;;
+}
